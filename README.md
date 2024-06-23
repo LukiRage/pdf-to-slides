@@ -106,6 +106,13 @@ pts latex <path/markdown.md> <path/output.json>
 pts pdf <path/markdown.md> <path/output.json>
 ```
 
+## Contributors
+
+- [@jilquero](https://github.com/jilquero)
+- [@RobertNeat](https://github.com/RobertNeat)
+- [@LukiRage](https://github.com/LukiRage)
+- [@rtheo1337](https://github.com/rtheo1337)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
